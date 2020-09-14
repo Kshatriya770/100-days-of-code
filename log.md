@@ -14,7 +14,7 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
 
-### Day 0: September 14, 2020 
+### Day 1: September 14, 2020 
 ##### 
 
 **Today's Progress**: Completing the Basics Like Operators, Bitwise shit, and other things'.
