@@ -22,3 +22,13 @@
 **Thoughts:** I Studied this things in my Diploma Syllabus but never learned it, i know some basics so completing this real quick.
 
 **Link to work:** Trying to read the book in my free time otherwise following some tutorials from the Coursera actually i am meshing around with some of the things. The book is not Working out for me shitttt. Wasted Rs.1000
+
+
+### Day 2: September 15, 2020 
+##### 
+
+**Today's Progress**: a new implementation of if-else conditions and some more basics about switch statements, Although I've learned new ways to implement of switch statement which I never heard of ;)'.
+
+**Thoughts:** I don't know why i am taking more time than usual but it's fine i will do it after all.
+
+**Link to work:** Started doing some digging for the resources w3schools are good for taking exercise for basics purposes but I personally don't find it useful for practicing the codes so I do not recommend it wait for it when I do some more digging and find something great I'll share it 
