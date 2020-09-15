@@ -10,20 +10,23 @@ public class NestedIfElse {
 		
 		int result = 0;
 		
-		if(a>b) {
-			if (a>c) {
-				result = a;
-			}
-			else 
-				result = c;
-		} else {
-			if(b>c) {
-				result = b;
-			} 
-			else {
-				result = c;
-			}
-		}
+//		if(a>b) {
+//			if (a>c) {
+//				result = a;
+//			}
+//			else 
+//				result = c;
+//		} else {
+//			if(b>c) {
+//				result = b;
+//			} 
+//			else {
+//				result = c;
+//			}
+//		}
+		
+		result = a > b ? a > c ? a : c : b > c ? b : c;
+		
 		System.out.println("the greater no is : " +result);
 	}
 
