@@ -9,13 +9,13 @@ public class ArithmeticOperators {
 		int c = a*b;
 		int d = a*a + b*b + 2*a*b;
 		
-		double c = (double)b/(double)a;
+//		double c = (double)b/(double)a;
 		
-		int c = b%a;
-		
-		int c = b++;
-		
-		int c = ++b;
+//		int c = b%a;
+//		
+//		int c = b++;
+//		
+//		int c = ++b;
 		
 		System.out.println(c + " " + b);
 
