@@ -28,3 +28,13 @@
 **Thoughts:** I don't know why i am taking more time than usual but it's fine i will do it after all.
 
 **Link to work:** Started doing some digging for the resources w3schools are good for taking exercise for basics purposes but I personally don't find it useful for practicing the codes so I do not recommend it wait for it when I do some more digging and find something great I'll share it 
+
+### Day 3: October, 2020 
+##### 
+
+**Today's Progress**: learned for loop and other stuffs related to for loop and nothing else seriously'.
+
+**Thoughts:** I know its too late to start this again like it's been more than 15 days but i can catch the train real quick.
+
+**Link to work:** Starting from today i have to double the time to get it done quickly. thanks
+
