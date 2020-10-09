@@ -38,3 +38,21 @@
 
 **Link to work:** Starting from today i have to double the time to get it done quickly. thanks
 
+### Day 4: October 8, 2020 
+##### 
+
+**Today's Progress**: learned patterns in for loop like some serious stuff '.
+
+**Thoughts:** I don't have any thoughts about this stuff but clearly i like this thing and done some homework and solve some more problems.
+
+**Link to work:** : Github CLI - A new thing to take care of cause it is helpful for command line GitHub stuff https://cli.github.com/manual/
+
+### Day 5: October 9, 2020 
+##### 
+
+**Today's Progress**: Other loops (while, do-while) and some arithmetic progressions in the same;'.
+
+**Thoughts:** I am catching up real quick and i am understanding github more while spending some of my time here and doing nothing.
+
+**Link to work:** I actually moved my all codes from this forked repository to my own 100-Days-of-Java so no more commits will be found here related to code, i still keep track of this log in this directory as well as there too.  
+
